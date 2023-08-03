@@ -80,11 +80,7 @@
         <artifactId>testng</artifactId>
         <version>7.4.0</version>
     </dependency>
-		<dependency>
-			<groupId>Automate-web-application-selenium</groupId>
-			<artifactId>Automate-web-application-selenium</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 	 <build>
